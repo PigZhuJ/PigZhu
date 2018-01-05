@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Scenario ID="GUID">
+  <Generic QueryType="5" NetID="2"/>
+  <Performances BeginIndex="0" EndIndex="100" Timestamp="time">
+    <Performance>
+      <info Name="BusinessID" Value="01"/>
+      <!--通路建立时间 单位为毫秒-->
+      <info Name="PathBuildTime" Value="68.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="RecoveryTime" Value="2.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="PathRecoverTransformTime" Value="0.0"/>
+    </Performance>
+    <Performance>
+      <info Name="BusinessID" Value="02"/>
+      <!--通路建立时间 单位为毫秒-->
+      <info Name="PathBuildTime" Value="51.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="RecoveryTime" Value="9.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="PathRecoverTransformTime" Value="1.0"/>
+    </Performance>
+    <Performance>
+      <info Name="BusinessID" Value="03"/>
+      <!--通路建立时间 单位为毫秒-->
+      <info Name="PathBuildTime" Value="59.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="RecoveryTime" Value="4.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="PathRecoverTransformTime" Value="1.0"/>
+    </Performance>
+    <Performance>
+      <info Name="BusinessID" Value="04"/>
+      <!--通路建立时间 单位为毫秒-->
+      <info Name="PathBuildTime" Value="11.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="RecoveryTime" Value="3.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="PathRecoverTransformTime" Value="1.0"/>
+    </Performance>
+    <Performance>
+      <info Name="BusinessID" Value="05"/>
+      <!--通路建立时间 单位为毫秒-->
+      <info Name="PathBuildTime" Value="98.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="RecoveryTime" Value="6.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="PathRecoverTransformTime" Value="0.0"/>
+    </Performance>
+    <Performance>
+      <info Name="BusinessID" Value="06"/>
+      <!--通路建立时间 单位为毫秒-->
+      <info Name="PathBuildTime" Value="21.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="RecoveryTime" Value="7.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="PathRecoverTransformTime" Value="1.0"/>
+    </Performance>
+    <Performance>
+      <info Name="BusinessID" Value="07"/>
+      <!--通路建立时间 单位为毫秒-->
+      <info Name="PathBuildTime" Value="53.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="RecoveryTime" Value="0.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="PathRecoverTransformTime" Value="0.0"/>
+    </Performance>
+    <Performance>
+      <info Name="BusinessID" Value="08"/>
+      <!--通路建立时间 单位为毫秒-->
+      <info Name="PathBuildTime" Value="83.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="RecoveryTime" Value="0.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="PathRecoverTransformTime" Value="0.0"/>
+    </Performance>
+    <Performance>
+      <info Name="BusinessID" Value="09"/>
+      <!--通路建立时间 单位为毫秒-->
+      <info Name="PathBuildTime" Value="91.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="RecoveryTime" Value="7.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="PathRecoverTransformTime" Value="0.0"/>
+    </Performance>
+    <Performance>
+      <info Name="BusinessID" Value="010"/>
+      <!--通路建立时间 单位为毫秒-->
+      <info Name="PathBuildTime" Value="10.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="RecoveryTime" Value="8.0"/>
+      <!--通路保护到换时间 单位为毫秒-->
+      <info Name="PathRecoverTransformTime" Value="1.0"/>
+    </Performance>
+  </Performances>
+</Scenario>

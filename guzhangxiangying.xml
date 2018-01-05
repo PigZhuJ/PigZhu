@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Scenario ID="GUID">
+  <Generic QueryType="4" NetID="2"/>
+  <NodeFaults BeginIndex="0" EndIndex="100" Total="101">
+    <NodeFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="Node5"/>
+      <info Name="FaultType" Value="01"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:33:10"/>
+      <info Name="EndTime" Value="2018-01-02 21:33:15"/>
+      <info Name="FaultLink" Value="id1,id2">
+        <!--故障影响的链路-->
+      </info>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在结局"/>
+    </NodeFault>
+    <NodeFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="Node10"/>
+      <info Name="FaultType" Value="01"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:34:00"/>
+      <info Name="EndTime" Value="2018-01-02 21:34:05"/>
+      <info Name="FaultLink" Value="id1,id2">
+        <!--故障影响的链路-->
+      </info>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在结局"/>
+    </NodeFault>
+    <NodeFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="Node15"/>
+      <info Name="FaultType" Value="01"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:34:50"/>
+      <info Name="EndTime" Value="2018-01-02 21:34:55"/>
+      <info Name="FaultLink" Value="id1,id2">
+        <!--故障影响的链路-->
+      </info>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在结局"/>
+    </NodeFault>
+    <NodeFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="Node20"/>
+      <info Name="FaultType" Value="01"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:35:40"/>
+      <info Name="EndTime" Value="2018-01-02 21:35:45"/>
+      <info Name="FaultLink" Value="id1,id2">
+        <!--故障影响的链路-->
+      </info>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在结局"/>
+    </NodeFault>
+    <NodeFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="Node25"/>
+      <info Name="FaultType" Value="01"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:36:30"/>
+      <info Name="EndTime" Value="2018-01-02 21:36:35"/>
+      <info Name="FaultLink" Value="id1,id2">
+        <!--故障影响的链路-->
+      </info>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在结局"/>
+    </NodeFault>
+    <NodeFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="Node30"/>
+      <info Name="FaultType" Value="01"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:37:20"/>
+      <info Name="EndTime" Value="2018-01-02 21:37:25"/>
+      <info Name="FaultLink" Value="id1,id2">
+        <!--故障影响的链路-->
+      </info>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在结局"/>
+    </NodeFault>
+    <NodeFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="Node35"/>
+      <info Name="FaultType" Value="01"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:38:10"/>
+      <info Name="EndTime" Value="2018-01-02 21:38:15"/>
+      <info Name="FaultLink" Value="id1,id2">
+        <!--故障影响的链路-->
+      </info>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在结局"/>
+    </NodeFault>
+    <NodeFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="Node40"/>
+      <info Name="FaultType" Value="01"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:39:00"/>
+      <info Name="EndTime" Value="2018-01-02 21:39:05"/>
+      <info Name="FaultLink" Value="id1,id2">
+        <!--故障影响的链路-->
+      </info>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在结局"/>
+    </NodeFault>
+    <NodeFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="Node45"/>
+      <info Name="FaultType" Value="01"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:39:50"/>
+      <info Name="EndTime" Value="2018-01-02 21:39:55"/>
+      <info Name="FaultLink" Value="id1,id2">
+        <!--故障影响的链路-->
+      </info>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在结局"/>
+    </NodeFault>
+    <NodeFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="Node50"/>
+      <info Name="FaultType" Value="01"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:40:40"/>
+      <info Name="EndTime" Value="2018-01-02 21:40:45"/>
+      <info Name="FaultLink" Value="id1,id2">
+        <!--故障影响的链路-->
+      </info>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在结局"/>
+    </NodeFault>
+  </NodeFaults>
+  <LinkFaults BeginIndex="0" EndIndex="100" Total="101">
+    <LinkFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="2_29"/>
+      <info Name="FaultType" Value="02"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:33:10"/>
+      <info Name="EndTime" Value="2018-01-02 21:33:15"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </LinkFault>
+    <LinkFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="2_29"/>
+      <info Name="FaultType" Value="02"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:34:00"/>
+      <info Name="EndTime" Value="2018-01-02 21:34:05"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </LinkFault>
+    <LinkFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="2_29"/>
+      <info Name="FaultType" Value="02"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:34:50"/>
+      <info Name="EndTime" Value="2018-01-02 21:34:55"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </LinkFault>
+    <LinkFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="2_29"/>
+      <info Name="FaultType" Value="02"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:35:40"/>
+      <info Name="EndTime" Value="2018-01-02 21:35:45"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </LinkFault>
+    <LinkFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="2_29"/>
+      <info Name="FaultType" Value="02"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:36:30"/>
+      <info Name="EndTime" Value="2018-01-02 21:36:35"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </LinkFault>
+    <LinkFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="2_29"/>
+      <info Name="FaultType" Value="02"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:37:20"/>
+      <info Name="EndTime" Value="2018-01-02 21:37:25"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </LinkFault>
+    <LinkFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="2_29"/>
+      <info Name="FaultType" Value="02"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:38:10"/>
+      <info Name="EndTime" Value="2018-01-02 21:38:15"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </LinkFault>
+    <LinkFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="2_29"/>
+      <info Name="FaultType" Value="02"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:39:00"/>
+      <info Name="EndTime" Value="2018-01-02 21:39:05"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </LinkFault>
+    <LinkFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="2_29"/>
+      <info Name="FaultType" Value="02"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:39:50"/>
+      <info Name="EndTime" Value="2018-01-02 21:39:55"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </LinkFault>
+    <LinkFault>
+      <info Name="FaultID" Value="01"/>
+      <info Name="NodeID" Value="2_29"/>
+      <info Name="FaultType" Value="02"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:40:40"/>
+      <info Name="EndTime" Value="2018-01-02 21:40:45"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </LinkFault>
+  </LinkFaults>
+  <BusinessFaults BeginIndex="0" EndIndex="100" Total="101">
+    <BusinessFault>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="BusinessType" Value="ASON"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:33:10"/>
+      <info Name="EndTime" Value="2018-01-02 21:33:15"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </BusinessFault>
+    <BusinessFault>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="BusinessType" Value="ASON"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:34:00"/>
+      <info Name="EndTime" Value="2018-01-02 21:34:05"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </BusinessFault>
+    <BusinessFault>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="BusinessType" Value="ASON"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:34:50"/>
+      <info Name="EndTime" Value="2018-01-02 21:34:55"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </BusinessFault>
+    <BusinessFault>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="BusinessType" Value="ASON"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:35:40"/>
+      <info Name="EndTime" Value="2018-01-02 21:35:45"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </BusinessFault>
+    <BusinessFault>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="BusinessType" Value="ASON"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:36:30"/>
+      <info Name="EndTime" Value="2018-01-02 21:36:35"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </BusinessFault>
+    <BusinessFault>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="BusinessType" Value="ASON"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:37:20"/>
+      <info Name="EndTime" Value="2018-01-02 21:37:25"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </BusinessFault>
+    <BusinessFault>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="BusinessType" Value="ASON"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:38:10"/>
+      <info Name="EndTime" Value="2018-01-02 21:38:15"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </BusinessFault>
+    <BusinessFault>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="BusinessType" Value="ASON"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:39:00"/>
+      <info Name="EndTime" Value="2018-01-02 21:39:05"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </BusinessFault>
+    <BusinessFault>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="BusinessType" Value="ASON"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:39:50"/>
+      <info Name="EndTime" Value="2018-01-02 21:39:55"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </BusinessFault>
+    <BusinessFault>
+      <info Name="Description" Value="故障描述"/>
+      <info Name="BusinessType" Value="ASON"/>
+      <info Name="FaultStatus" Value="01"/>
+      <info Name="StartTime" Value="2018-01-02 21:40:40"/>
+      <info Name="EndTime" Value="2018-01-02 21:40:45"/>
+      <info Name="FaultLink" Value="故障关联性业务"/>
+      <info Name="HandleResult" Value="正在处理"/>
+    </BusinessFault>
+  </BusinessFaults>
+</Scenario>
