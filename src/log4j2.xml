@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<!--需要的时候在回去查包即可-->
 <Configuration status="warn">
 
     <Appenders>

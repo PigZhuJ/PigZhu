@@ -1,7 +1,8 @@
 package Log4j2;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+import org.junit.Test;
 
 /**
  * log4j2 jar 包测试
@@ -18,5 +19,9 @@ public class log4j2_1 {
             logger.error("error");
             logger.fatal("fatal");
         }
+    }
+    @Test
+    public void loggerTest(){
+        System.out.println("this is Junit Test");
     }
 }
